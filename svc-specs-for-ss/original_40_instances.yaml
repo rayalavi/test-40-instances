@@ -173,7 +173,7 @@ instances:
   - name: "load-test-svc-instance34"
     environment: "load-test-env"
     spec:
-      my_sample_service_instance_optional_input: "thisIsADifferentInstance"
+      my_sample_service_instance_optional_input: "thisIsADifferentInstance1"
       my_sample_service_instance_required_input: "ThisInstanceIsNew"
   - name: "load-test-svc-instance35"
     environment: "load-test-env"
