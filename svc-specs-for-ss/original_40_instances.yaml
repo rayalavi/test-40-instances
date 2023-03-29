@@ -8,7 +8,7 @@ instances:
   - name: "load-test-svc-instance1"
     environment: "load-test-env"
     spec:
-      my_sample_service_instance_optional_input: "BAD"
+      my_sample_service_instance_optional_input: "BAD1"
       my_sample_service_instance_required_input: "AWFUL"
   - name: "load-test-svc-instance2"
     environment: "load-test-env"
